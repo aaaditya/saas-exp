@@ -42,7 +42,7 @@ export const TOOLS: ToolMeta[] = [
     id: 'images-to-pdf',
     name: 'Images → PDF',
     blurb: 'Turn photos and scans into a PDF.',
-    accent: '#C084FC',
+    accent: '#DB6B3D',
   },
   {
     id: 'pdf-to-images',
